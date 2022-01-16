@@ -1,83 +1,83 @@
-Variable,Description
-number_of_elements,number of elements
-mean_atomic_mass,mean of atomic mass
-wtd_mean_atomic_mass,weighted mean of atomic mass
-gmean_atomic_mass,geometric mean of atomic mass
-wtd_gmean_atomic_mass,weighted geometic mean of atomic mass
-entropy_atomic_mass,entropy of atomic mass
-wtd_entropy_atomic_mass,weighted entropy of atomic mass
-range_atomic_mass,range of atomic mass
-wtd_range_atomic_mass,weighted range of atomic mass
-std_atomic_mass,standard deviation of atomic mass
-wtd_std_atomic_mass,weighted standard deviation of atomic mass
-mean_fie,mean phi
-wtd_mean_fie,weighted mean phi
-gmean_fie,geometric mean phi
-wtd_gmean_fie,weighted geometric mean phi
-entropy_fie,entropy phi
-wtd_entropy_fie,wegithed entropy phi
-range_fie,range of phi
-wtd_range_fie,weighted range of phi
-std_fie,standard deviation of phi
-wtd_std_fie,weighted standard deviation of phi
-mean_atomic_radius,atomic mean of radius
-wtd_mean_atomic_radius,weighted atomic mean of radius
-gmean_atomic_radius,geometric atomic of radius
-wtd_gmean_atomic_radius,weighted geometric mean of radius
-entropy_atomic_radius,entrophy of atomic of radius
-wtd_entropy_atomic_radius,weighted entrophy of atomic of Radius
-range_atomic_radius,range of atomic mass of radius
-wtd_range_atomic_radius,weighted range of atomic mass of radius
-std_atomic_radius,standard deviation of atomic mass of radius
-wtd_std_atomic_radius,weighted standard deviation of atomic mass of radius
-mean_Density,mean of density
-wtd_mean_Density,weighted mean of density
-gmean_Density,geometic mean of density
-wtd_gmean_Density,weighted geometic mean of density
-entropy_Density,entropy of density
-wtd_entropy_Density,weighted entropy of denisty
-range_Density,range of density
-wtd_range_Density,weighted range of density
-std_Density,standard deviation of density
-wtd_std_Density,weighted standard deviation of density
-mean_ElectronAffinity,mean of electron affinity
-wtd_mean_ElectronAffinity,weighted mean of electronic effinity
-gmean_ElectronAffinity,geometic mean of electron affinity
-wtd_gmean_ElectronAffinity,weighted geometic mean of electrong affinity
-entropy_ElectronAffinity,entropy of electrong affinity
-wtd_entropy_ElectronAffinity,weighted entropy of electrong affinity
-range_ElectronAffinity,range of electrong affinity
-wtd_range_ElectronAffinity,weighted range of electrong affinity
-std_ElectronAffinity,standard deviation of electrong affinity
-wtd_std_ElectronAffinity,weighted standard deviation of electrong affinity
-mean_FusionHeat,mean of fusion heat
-wtd_mean_FusionHeat,weighted mean of fusion heat
-gmean_FusionHeat,geometic mean of fusion heat
-wtd_gmean_FusionHeat,weighted geometric mean of fusion heat
-entropy_FusionHeat,entropy of fusion heat
-wtd_entropy_FusionHeat,weighted entropy of fusion heat
-range_FusionHeat,Range of fusion heat
-wtd_range_FusionHeat,weighted range fusion heat
-std_FusionHeat,standard deviation of fusion heat
-wtd_std_FusionHeat,weighted standard deviation of fusion heat
-mean_ThermalConductivity,mean of thermal conductivity
-wtd_mean_ThermalConductivity,weighted mean of thermal conductivity
-gmean_ThermalConductivity,geometric mean of thermal conductivity
-wtd_gmean_ThermalConductivity,weighted geometric mean of thermal conductivity
-entropy_ThermalConductivity,entrophy of thermal conductivity
-wtd_entropy_ThermalConductivity,weighted entropy of thermal conductivity
-range_ThermalConductivity,range of thermal conductivity
-wtd_range_ThermalConductivity,weighted range of thermal conductivity
-std_ThermalConductivity,standard deviation of thermal conductivity
-wtd_std_ThermalConductivity,weighted standard deviation of thermal conductivity
-mean_Valence,mean of valence
-wtd_mean_Valence,weighted mean of valence
-gmean_Valence,geometric mean of valence
-wtd_gmean_Valence,weighted geometric mean of valence
-entropy_Valence,entropy of valence
-wtd_entropy_Valence,weighted entrophy of valence
-range_Valence,range of valence
-wtd_range_Valence,weighted range of valence
-std_Valence,standard deviation of valence
-wtd_std_Valence,weighted standard deviation of valence
-critical_temp,critical temperature
+Variable,Description,Type
+number_of_elements,number of elements,Integer
+mean_atomic_mass,mean of atomic mass,Float
+wtd_mean_atomic_mass,weighted mean of atomic mass,Float
+gmean_atomic_mass,geometric mean of atomic mass,Float
+wtd_gmean_atomic_mass,weighted geometic mean of atomic mass,Float
+entropy_atomic_mass,entropy of atomic mass,Float
+wtd_entropy_atomic_mass,weighted entropy of atomic mass,Float
+range_atomic_mass,range of atomic mass,Float
+wtd_range_atomic_mass,weighted range of atomic mass,Float
+std_atomic_mass,standard deviation of atomic mass,Float
+wtd_std_atomic_mass,weighted standard deviation of atomic mass,Float
+mean_fie,mean phi,Float
+wtd_mean_fie,weighted mean phi,Float
+gmean_fie,geometric mean phi,Float
+wtd_gmean_fie,weighted geometric mean phi,Float
+entropy_fie,entropy phi,Float
+wtd_entropy_fie,wegithed entropy phi,Float
+range_fie,range of phi,Float
+wtd_range_fie,weighted range of phi,Float
+std_fie,standard deviation of phi,Float
+wtd_std_fie,weighted standard deviation of phi,Float
+mean_atomic_radius,atomic mean of radius,Float
+wtd_mean_atomic_radius,weighted atomic mean of radius,Float
+gmean_atomic_radius,geometric atomic of radius,Float
+wtd_gmean_atomic_radius,weighted geometric mean of radius,Float
+entropy_atomic_radius,entrophy of atomic of radius,Float
+wtd_entropy_atomic_radius,weighted entrophy of atomic of Radius,Float
+range_atomic_radius,range of atomic mass of radius,Integer
+wtd_range_atomic_radius,weighted range of atomic mass of radius,Float
+std_atomic_radius,standard deviation of atomic mass of radius,Float
+wtd_std_atomic_radius,weighted standard deviation of atomic mass of radius,Float
+mean_Density,mean of density,Float
+wtd_mean_Density,weighted mean of density,Float
+gmean_Density,geometic mean of density,Float
+wtd_gmean_Density,weighted geometic mean of density,Float
+entropy_Density,entropy of density,Float
+wtd_entropy_Density,weighted entropy of denisty,Float
+range_Density,range of density,Float
+wtd_range_Density,weighted range of density,Float
+std_Density,standard deviation of density,Float
+wtd_std_Density,weighted standard deviation of density,Float
+mean_ElectronAffinity,mean of electron affinity,Float
+wtd_mean_ElectronAffinity,weighted mean of electronic effinity,Float
+gmean_ElectronAffinity,geometic mean of electron affinity,Float
+wtd_gmean_ElectronAffinity,weighted geometic mean of electrong affinity,Float
+entropy_ElectronAffinity,entropy of electrong affinity,Float
+wtd_entropy_ElectronAffinity,weighted entropy of electrong affinity,Float
+range_ElectronAffinity,range of electrong affinity,Float
+wtd_range_ElectronAffinity,weighted range of electrong affinity,Float
+std_ElectronAffinity,standard deviation of electrong affinity,Float
+wtd_std_ElectronAffinity,weighted standard deviation of electrong affinity,Float
+mean_FusionHeat,mean of fusion heat,Float
+wtd_mean_FusionHeat,weighted mean of fusion heat,Float
+gmean_FusionHeat,geometic mean of fusion heat,Float
+wtd_gmean_FusionHeat,weighted geometric mean of fusion heat,Float
+entropy_FusionHeat,entropy of fusion heat,Float
+wtd_entropy_FusionHeat,weighted entropy of fusion heat,Float
+range_FusionHeat,Range of fusion heat,Float
+wtd_range_FusionHeat,weighted range fusion heat,Float
+std_FusionHeat,standard deviation of fusion heat,Float
+wtd_std_FusionHeat,weighted standard deviation of fusion heat,Float
+mean_ThermalConductivity,mean of thermal conductivity,Float
+wtd_mean_ThermalConductivity,weighted mean of thermal conductivity,Float
+gmean_ThermalConductivity,geometric mean of thermal conductivity,Float
+wtd_gmean_ThermalConductivity,weighted geometric mean of thermal conductivity,Float
+entropy_ThermalConductivity,entrophy of thermal conductivity,Float
+wtd_entropy_ThermalConductivity,weighted entropy of thermal conductivity,Float
+range_ThermalConductivity,range of thermal conductivity,Float
+wtd_range_ThermalConductivity,weighted range of thermal conductivity,Float
+std_ThermalConductivity,standard deviation of thermal conductivity,Float
+wtd_std_ThermalConductivity,weighted standard deviation of thermal conductivity,Float
+mean_Valence,mean of valence,Float
+wtd_mean_Valence,weighted mean of valence,Float
+gmean_Valence,geometric mean of valence,Float
+wtd_gmean_Valence,weighted geometric mean of valence,Float
+entropy_Valence,entropy of valence,Float
+wtd_entropy_Valence,weighted entrophy of valence,Float
+range_Valence,range of valence,Integer
+wtd_range_Valence,weighted range of valence,Float
+std_Valence,standard deviation of valence,Float
+wtd_std_Valence,weighted standard deviation of valence,Float
+critical_temp,critical temperature,Float
